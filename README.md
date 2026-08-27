@@ -12,13 +12,13 @@ Interactive Power BI dashboard analysing 10K+ retail transactions to uncover sal
 
 High-level view of key business metrics including **Total Sales, Total Profit, Total Orders, and Total Customers**, along with sales trends, category performance, and regional sales.
 
-![Dashboard Overview](Dashboard-Overview.png)
+![Dashboard Overview](Images/Dashboard-Overview.png)
 
 ### Exploratory Analysis
 
 Analysis of **Sales vs Profit, Discount vs Profit, Sub-Category profitability, Top Products, Bottom Performers**, and monthly sales trends.
 
-![Exploratory Analysis](Exploratory-Analysis.png)
+![Exploratory Analysis](Images/Exploratory-Analysis.png)
 
 ### Key Insights & Recommendations
 
@@ -30,7 +30,7 @@ Analysis of **Sales vs Profit, Discount vs Profit, Sub-Category profitability, T
 
 **Recommendations:** Prioritize profitable segments, review loss-making products, optimize discount strategies, and improve performance in weaker regions.
 
-![Key Insights & Recommendations](KeyInsights-Recommendations.png)
+![Key Insights & Recommendations](Images/KeyInsights-Recommendations.png)
 
 ## Key Results
 
